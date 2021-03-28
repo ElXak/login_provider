@@ -1,6 +1,6 @@
 # login_provider
 
-A login screen using provider pattern.
+A login screen using provider pattern with ChangeNotifierProvider.
 
 ## Getting Started
 
